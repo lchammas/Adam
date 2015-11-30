@@ -10,6 +10,7 @@
   padding-top: 250px;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   color: white;
+  margin-bottom: 0;
 	
 }
 
@@ -24,7 +25,7 @@ label {
 }
 
 #info {
-	background-color: #ffcc99;
+	background-color: rgb(214, 214, 194);
 	color: black;
 	text-align: center;
 	padding-bottom: 40px; 
@@ -32,14 +33,12 @@ label {
 }
 
 .adam {
-	text-align: left;
+	text-align: center;
 	padding-left: 10px;
 }
 
 .adamimg {
-	width: -50px; /* you can use % */
-    height: -10px;
-    padding-right: 1200px;
+	padding-right: 1200px;
     padding-left: -100px;
 }
 
@@ -48,8 +47,6 @@ label {
 }
 
 .gaelimg {
-	width: -20px; /* you can use % */
-    height: -10px;
     padding-left: 50px;
 }
 
